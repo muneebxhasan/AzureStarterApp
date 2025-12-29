@@ -1,0 +1,1 @@
+A professional starter template for Python web applications on Microsoft Azure. Designed to demonstrate cloud deployment, containerization, and automated CI/CD workflows, making it easy to build, test, and scale applications in a cloud environment.
